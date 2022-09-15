@@ -105,12 +105,12 @@ describe("Multiplier3 with Groth16", function () {
       editedProof,
       editedPublicSignals
     );
-    console.log("calldata", calldata);
+    // console.log("calldata", calldata);
     const argv = calldata
       .replace(/["[\]\s]/g, "")
       .split(",")
       .map((x) => BigInt(x).toString());
-    console.log("argv", argv);
+    // console.log("argv", argv);
     const a = [argv[0], argv[1]];
     const b = [
       [argv[2], argv[3]],
@@ -135,6 +135,8 @@ describe("Multiplier3 with Groth16", function () {
 });
 
 describe("Multiplier3 with PLONK", function () {
+  let Verifier;
+  let verifier;
   beforeEach(async function () {
     //[assignment] insert your script here
     Verifier = await ethers.getContractFactory("Multiplier3_plonkVerifier");
