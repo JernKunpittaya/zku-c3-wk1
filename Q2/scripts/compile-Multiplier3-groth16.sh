@@ -13,7 +13,7 @@ else
     wget https://hermez.s3-eu-west-1.amazonaws.com/powersOfTau28_hez_final_10.ptau
 fi
 
-echo "Compiling Multiplier3.circom..."
+echo "Compiling Multiplier3.circom..."yyoooo
 
 # compile circuit
 
