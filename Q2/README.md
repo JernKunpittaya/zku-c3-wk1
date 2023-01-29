@@ -30,6 +30,7 @@ Part 2
 
    -Test all passes
 
-   ![Screen Shot 2023-01-29 at 12.45.57 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/33546a79-814e-44f2-a15d-b6a925575fd9/Screen_Shot_2023-01-29_at_12.45.57_AM.png)
+   <img width="534" alt="Screen Shot 2023-01-29 at 12 45 57 AM" src="https://user-images.githubusercontent.com/61564542/215307686-597e0c8a-2afa-4c0f-94cb-82782488ceff.png">
+
 
 Note https://github.com/enricobottazzi/ZKverse Reference for algo
