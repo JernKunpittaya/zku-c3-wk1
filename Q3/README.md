@@ -15,8 +15,11 @@
 
 1. Done
 2. Our circuit is too big for power of tau ceremony.
+
 <img width="688" alt="Screen Shot 2022-09-19 at 4 43 07 PM" src="https://user-images.githubusercontent.com/61564542/215309357-02273e9f-dcf2-4262-b044-a96445a5ffb6.png">
+
 So can just change power of tau version to 17!
 
 3.) Done
+
 <img width="447" alt="Screen Shot 2023-01-29 at 1 09 32 AM" src="https://user-images.githubusercontent.com/61564542/215309366-8d37b0ac-f11e-4679-b908-9e3c14e4158f.png">
