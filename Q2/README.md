@@ -33,4 +33,4 @@ Part 2
    <img width="534" alt="Screen Shot 2023-01-29 at 12 45 57 AM" src="https://user-images.githubusercontent.com/61564542/215307686-597e0c8a-2afa-4c0f-94cb-82782488ceff.png">
 
 
-Note https://github.com/enricobottazzi/ZKverse Reference for algo
+Note https://github.com/enricobottazzi/ZKverse for good illustration of zk.
